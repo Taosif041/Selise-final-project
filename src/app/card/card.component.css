@@ -1,0 +1,17 @@
+.example-card {
+    max-width: 300px;
+    margin-left: 120px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+  }
+
+  mat-card-actions{
+
+    display: flex;
+    gap: 5px;
+
+  }
+  

@@ -1,0 +1,204 @@
+{
+  "productList": [
+    {
+      "productName": "Pen",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 130,
+      "date": "2022-11-13T18:00:00.000Z",
+      "quant": 3,
+      "ident": 2,
+      "id": 4
+    },
+    {
+      "productName": "Watch",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 20000,
+      "date": "2022-11-10T18:00:00.000Z",
+      "quant": 6,
+      "ident": 1,
+      "id": 5
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 600,
+      "date": "2022-11-23T18:00:00.000Z",
+      "quant": 13,
+      "ident": 2,
+      "id": 6
+    },
+    {
+      "productName": "Mobile",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 20000,
+      "date": "2022-11-18T18:00:00.000Z",
+      "quant": 10,
+      "ident": 2,
+      "id": 7
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 50000,
+      "date": "2022-11-12T18:00:00.000Z",
+      "quant": 5,
+      "ident": 0,
+      "id": 8
+    },
+    {
+      "productName": "Desktop",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 30000,
+      "date": "2022-11-10T18:00:00.000Z",
+      "quant": 4,
+      "ident": 0,
+      "id": 9
+    },
+    {
+      "productName": "Jackfruit",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 450,
+      "date": "2022-11-12T18:00:00.000Z",
+      "quant": 3,
+      "ident": 0,
+      "id": 10
+    },
+    {
+      "productName": "Cucumber",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 220,
+      "date": "2022-11-07T18:00:00.000Z",
+      "quant": 11,
+      "ident": 0,
+      "id": 11
+    },
+    {
+      "productName": "Bamboo",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 300,
+      "date": "2022-11-03T18:00:00.000Z",
+      "quant": 14,
+      "ident": 0,
+      "id": 13
+    },
+    {
+      "productName": "Brinjal",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 600,
+      "date": "2022-11-17T18:00:00.000Z",
+      "quant": 40,
+      "ident": 0,
+      "id": 14
+    },
+    {
+      "productName": "Bottle",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 300,
+      "date": "2022-11-03T18:00:00.000Z",
+      "quant": 20,
+      "ident": 0,
+      "id": 15
+    },
+    {
+      "productName": "Iphone",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 80000,
+      "date": "2022-11-04T18:00:00.000Z",
+      "quant": 1,
+      "ident": 0,
+      "id": 16
+    },
+    {
+      "productName": "Apple Watch",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 30000,
+      "date": "2022-11-12T18:00:00.000Z",
+      "quant": 7,
+      "ident": 0,
+      "id": 17
+    },
+    {
+      "productName": "Mac Book",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 150000,
+      "date": "2022-11-15T18:00:00.000Z",
+      "quant": 19,
+      "ident": 0,
+      "id": 18
+    },
+    {
+      "productName": "Hiter",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 20000,
+      "date": "2022-11-17T18:00:00.000Z",
+      "quant": 30,
+      "ident": 0,
+      "id": 19
+    },
+    {
+      "productName": "Samsung Phone",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 20000,
+      "date": "2022-11-13T18:00:00.000Z",
+      "quant": 5,
+      "ident": 0,
+      "id": 20
+    },
+    {
+      "productName": "Trimmer",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 15000,
+      "date": "2022-11-24T18:00:00.000Z",
+      "quant": 10,
+      "ident": 0,
+      "id": 21
+    },
+    {
+      "productName": "Bulb",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 100,
+      "date": "2022-11-23T18:00:00.000Z",
+      "quant": 19,
+      "ident": 1,
+      "id": 22
+    },
+    {
+      "productName": "Fan",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 3000,
+      "date": "2022-11-24T18:00:00.000Z",
+      "quant": 10,
+      "ident": 0,
+      "id": 23
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
